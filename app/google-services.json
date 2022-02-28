@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37082734787",
+    "project_id": "mbbschatapp",
+    "storage_bucket": "mbbschatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37082734787:android:1e58eacf2bf98f13c68276",
+        "android_client_info": {
+          "package_name": "com.prince_kumar_chaprana.mbbsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37082734787-j2g1gov101ukvv9bofe7rnoochqv502d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB-UiCXR-_Z3H1ujHtfZAGZp9x70S2Zek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37082734787-j2g1gov101ukvv9bofe7rnoochqv502d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
